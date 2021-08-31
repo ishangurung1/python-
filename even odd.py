@@ -1,0 +1,6 @@
+x=int(input ("enter the number"))
+
+if(x%2==0):
+    print("the number is even"+str(x))
+else:
+    print("the  number is odd:"+str(y))
